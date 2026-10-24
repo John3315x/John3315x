@@ -138,7 +138,6 @@ A Java simulation exploring autonomous agents and emergent behavior in a two-dim
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL and Redis"/>
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=flat-square&logo=rabbitmq&logoColor=FF6600)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=databricks&logoColor=67E8F9)
 
 ### Infrastructure & DevOps
@@ -153,7 +152,6 @@ A Java simulation exploring autonomous agents and emergent behavior in a two-dim
 
 ![JUnit](https://img.shields.io/badge/JUnit-111827?style=flat-square&logo=junit5&logoColor=25A162)
 ![Mockito](https://img.shields.io/badge/Mockito-111827?style=flat-square&logo=mockito&logoColor=78C257)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-111827?style=flat-square&logo=docker&logoColor=2496ED)
 ![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-111827?style=flat-square&logo=swagger&logoColor=85EA2D)
 
 ### Frontend & networking
