@@ -2,12 +2,11 @@
   JOHN3315X | PROFILE README
   Visual direction: dark minimalism, cyan/violet accents, subtle Japanese detail.
 -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=JOHN3315X&fontSize=48&fontColor=67E8F9&animation=fadeIn&fontAlignY=50&desc=BACKEND%20%7C%20SECURITY%20%7C%20DISTRIBUTED%20SYSTEMS&descSize=13&descColor=A78BFA&descAlignY=75"
+    src="assets/banner.svg"
     width="100%"
-    alt="John3315x — Backend, Security and Distributed Systems"
+    alt="John3315x — Backend Developer, Security and Distributed Systems"
   />
 </p>
 
