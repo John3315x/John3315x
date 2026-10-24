@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">JOHN3315X — Backend, Security and Distributed Systems</title>
+  <desc id="desc">Minimal futuristic banner with a dark background, cyan and violet circuit lines, and a subtle Japanese-inspired sun motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B12"/>
+      <stop offset="0.58" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111025"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8BA3C7" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <ellipse cx="1000" cy="155" rx="310" ry="240" fill="url(#halo)"/>
+
+    <!-- Fine circuit traces -->
+    <g fill="none" stroke-width="1.5" opacity="0.7">
+      <path d="M710 42H850L885 77H1020" stroke="#67E8F9"/>
+      <path d="M780 68H842L873 99V125H955" stroke="#A78BFA"/>
+      <path d="M825 286H920L956 250H1105" stroke="#67E8F9"/>
+      <path d="M905 218H970L1000 188H1160" stroke="#A78BFA"/>
+      <path d="M1080 60V95L1110 125V160" stroke="#67E8F9"/>
+      <path d="M1138 190V230L1108 260" stroke="#A78BFA"/>
+      <path d="M42 255H128L156 227H205" stroke="#67E8F9" opacity="0.45"/>
+      <path d="M60 278H112L138 252" stroke="#A78BFA" opacity="0.5"/>
+    </g>
+    <g fill="#67E8F9" filter="url(#glow)">
+      <circle cx="1020" cy="77" r="3"/><circle cx="955" cy="125" r="3"/><circle cx="1105" cy="250" r="3"/>
+      <circle cx="205" cy="227" r="2.5" opacity="0.7"/>
+    </g>
+    <g fill="#A78BFA" filter="url(#glow)">
+      <circle cx="780" cy="68" r="2.5"/><circle cx="1160" cy="188" r="2.5"/><circle cx="138" cy="252" r="2"/>
+    </g>
+
+    <!-- Japanese-inspired, restrained sun motif -->
+    <circle cx="1030" cy="160" r="76" fill="none" stroke="#A78BFA" stroke-opacity="0.28" stroke-width="1"/>
+    <circle cx="1030" cy="160" r="59" fill="none" stroke="#67E8F9" stroke-opacity="0.20" stroke-width="1" stroke-dasharray="2 8"/>
+    <path d="M1030 101 A59 59 0 0 1 1089 160" fill="none" stroke="url(#neon)" stroke-width="2" opacity="0.8"/>
+    <path d="M1030 112 A48 48 0 0 0 982 160" fill="none" stroke="#67E8F9" stroke-width="1.5" opacity="0.55"/>
+
+    <!-- Main typography -->
+    <text x="78" y="70" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="3.5">SYSTEMS / SECURITY / NETWORKS</text>
+    <path d="M78 91H146" stroke="url(#neon)" stroke-width="2"/>
+    <text x="74" y="167" fill="#E6F1FF" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5">JOHN<tspan fill="#67E8F9">3315X</tspan></text>
+    <text x="80" y="207" fill="#B9C5D8" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="0.6">Backend Developer <tspan fill="#64748B">/</tspan> Security <tspan fill="#64748B">/</tspan> Distributed Systems</text>
+    <text x="80" y="272" fill="#A78BFA" font-family="'Yu Gothic', 'Noto Sans JP', sans-serif" font-size="15" letter-spacing="2">静かに、確かに。</text>
+    <text x="1120" y="294" fill="#64748B" font-family="Consolas, 'Courier New', monospace" font-size="11" text-anchor="end" letter-spacing="2">JP — 01</text>
+    <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#26374A" stroke-opacity="0.8"/>
+  </g>
+</svg>
