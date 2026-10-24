@@ -3,9 +3,13 @@
   Visual direction: dark minimalism, cyan/violet accents, subtle Japanese detail.
 -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:111827,100:172554&height=180&section=header&text=JOHN3315X&fontSize=48&fontColor=E6F1FF&fontAlignY=42&desc=BACKEND%20DEVELOPER%20%7C%20SECURITY%20%26%20DISTRIBUTED%20SYSTEMS&descSize=13&descAlignY=66&descColor=67E8F9" width="100%" alt="John3315x profile header"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=JOHN3315X&fontSize=48&fontColor=67E8F9&animation=fadeIn&fontAlignY=50&desc=BACKEND%20%7C%20SECURITY%20%7C%20DISTRIBUTED%20SYSTEMS&descSize=13&descColor=A78BFA&descAlignY=75"
+    width="100%"
+    alt="John3315x — Backend, Security and Distributed Systems"
+  />
+</p>
 
 <br/>
 
