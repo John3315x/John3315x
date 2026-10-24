@@ -173,7 +173,8 @@ A Java simulation exploring autonomous agents and emergent behavior in a two-dim
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=John3315x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true" alt="GitHub contribution statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John3315x&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John3315x&layout=compact&hide=css&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used programming languages, excluding CSS"/>
+
 
 <img width="70%" src="https://streak-stats.demolab.com?user=John3315x&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
