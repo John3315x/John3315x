@@ -4,7 +4,7 @@
 -->
 <p align="center">
   <img
-    src="assets/banner.svg"
+    src=".idea/assets/banner.svg"
     width="100%"
     alt="John3315x — Backend Developer, Security and Distributed Systems"
   />
