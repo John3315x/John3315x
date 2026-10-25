@@ -13,7 +13,7 @@
 
 <div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Chaves-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/john-chaves-3315x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Chaves-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/john-chaves-9b16b4290/)
 [![GitHub](https://img.shields.io/badge/GitHub-John3315x-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/John3315x)
 [![Email](https://img.shields.io/badge/Email-johnchaves2002%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:johnchaves2002@gmail.com)
 [![Java](https://img.shields.io/badge/Java-21-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
