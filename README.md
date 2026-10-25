@@ -100,7 +100,7 @@ A Java-based network monitoring and analysis project inspired by Security Inform
 </td>
 <td width="50%" valign="top">
 
-### ◈ Bacteria — Artificial Ecosystem 2D
+### ◈ Bacterium — Artificial Ecosystem 2D
 
 A Java simulation exploring autonomous agents and emergent behavior in a two-dimensional artificial ecosystem.
 
