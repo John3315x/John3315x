@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="JOHN3315X — Java Backend Developer, Cloud Practitioner, Application Security">
+  <title>JOHN3315X — Java Backend Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03050d"/><stop offset="0.55" stop-color="#070b1f"/><stop offset="1" stop-color="#0d0618"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="0.18" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0.22"/><stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="0.82" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#ff2bd6" stop-opacity="0.18"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#00f0ff"/><stop offset="0.5" stop-color="#ff2bd6"/><stop offset="1" stop-color="#00f0ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="codeFade" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.25" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.75" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="codeMask"><rect x="0" y="0" width="1200" height="320" fill="url(#codeFade)"/></mask>
+    <linearGradient id="floorFade" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="floorMask"><rect x="0" y="262" width="1200" height="58" fill="url(#floorFade)"/></mask>
+    <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowStrong" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#00f0ff" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="tc0"><rect x="98" y="196" width="0" height="36">
+      <animate attributeName="width" dur="15.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0247;0.0293;0.0340;0.0387;0.0433;0.0480;0.0527;0.0573;0.0620;0.0667;0.0713;0.0760;0.0807;0.0853;0.0900;0.0947;0.0993;0.1040;0.1087;0.1133;0.1180;0.1227;0.2713;0.2733;0.2753;0.2773;0.2793;0.2813;0.2833;0.2853;0.2873;0.2893;0.2913;0.2933;0.2953;0.2973;0.2993;0.3013;0.3033;0.3053;0.3073;0.3093;0.3113;0.3133" values="0;15.4;29.8;44.2;58.6;73.0;87.4;101.8;116.2;130.6;145.0;159.4;173.8;188.2;202.6;217.0;231.4;245.8;260.2;274.6;289.0;303.4;317.8;303.4;289.0;274.6;260.2;245.8;231.4;217.0;202.6;188.2;173.8;159.4;145.0;130.6;116.2;101.8;87.4;73.0;58.6;44.2;29.8;15.4;1.0"/>
+    </rect></clipPath>
+    <clipPath id="tc1"><rect x="98" y="196" width="0" height="36">
+      <animate attributeName="width" dur="15.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3580;0.3627;0.3673;0.3720;0.3767;0.3813;0.3860;0.3907;0.3953;0.4000;0.4047;0.4093;0.4140;0.4187;0.4233;0.4280;0.4327;0.4373;0.6127;0.6147;0.6167;0.6187;0.6207;0.6227;0.6247;0.6267;0.6287;0.6307;0.6327;0.6347;0.6367;0.6387;0.6407;0.6427;0.6447;0.6467" values="0;15.4;29.8;44.2;58.6;73.0;87.4;101.8;116.2;130.6;145.0;159.4;173.8;188.2;202.6;217.0;231.4;245.8;260.2;245.8;231.4;217.0;202.6;188.2;173.8;159.4;145.0;130.6;116.2;101.8;87.4;73.0;58.6;44.2;29.8;15.4;1.0"/>
+    </rect></clipPath>
+    <clipPath id="tc2"><rect x="98" y="196" width="0" height="36">
+      <animate attributeName="width" dur="15.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.6913;0.6960;0.7007;0.7053;0.7100;0.7147;0.7193;0.7240;0.7287;0.7333;0.7380;0.7427;0.7473;0.7520;0.7567;0.7613;0.7660;0.7707;0.7753;0.7800;0.9420;0.9440;0.9460;0.9480;0.9500;0.9520;0.9540;0.9560;0.9580;0.9600;0.9620;0.9640;0.9660;0.9680;0.9700;0.9720;0.9740;0.9760;0.9780;0.9800" values="0;15.4;29.8;44.2;58.6;73.0;87.4;101.8;116.2;130.6;145.0;159.4;173.8;188.2;202.6;217.0;231.4;245.8;260.2;274.6;289.0;274.6;260.2;245.8;231.4;217.0;202.6;188.2;173.8;159.4;145.0;130.6;116.2;101.8;87.4;73.0;58.6;44.2;29.8;15.4;1.0"/>
+    </rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono','Courier New',monospace">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <rect width="1200" height="320" fill="url(#glowL)"><animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/></rect>
+    <rect width="1200" height="320" fill="url(#glowR)"><animate attributeName="opacity" values="1;0.6;1" dur="7s" repeatCount="indefinite"/></rect>
+
+    <!-- perspective floor -->
+    <g mask="url(#floorMask)" stroke="#00f0ff" stroke-opacity="0.35" stroke-width="1">
+      <line x1="504.0" y1="262" x2="-600" y2="320"/><line x1="510.4" y1="262" x2="-520" y2="320"/><line x1="516.8" y1="262" x2="-440" y2="320"/><line x1="523.2" y1="262" x2="-360" y2="320"/><line x1="529.6" y1="262" x2="-280" y2="320"/><line x1="536.0" y1="262" x2="-200" y2="320"/><line x1="542.4" y1="262" x2="-120" y2="320"/><line x1="548.8" y1="262" x2="-40" y2="320"/><line x1="555.2" y1="262" x2="40" y2="320"/><line x1="561.6" y1="262" x2="120" y2="320"/><line x1="568.0" y1="262" x2="200" y2="320"/><line x1="574.4" y1="262" x2="280" y2="320"/><line x1="580.8" y1="262" x2="360" y2="320"/><line x1="587.2" y1="262" x2="440" y2="320"/><line x1="593.6" y1="262" x2="520" y2="320"/><line x1="600.0" y1="262" x2="600" y2="320"/><line x1="606.4" y1="262" x2="680" y2="320"/><line x1="612.8" y1="262" x2="760" y2="320"/><line x1="619.2" y1="262" x2="840" y2="320"/><line x1="625.6" y1="262" x2="920" y2="320"/><line x1="632.0" y1="262" x2="1000" y2="320"/><line x1="638.4" y1="262" x2="1080" y2="320"/><line x1="644.8" y1="262" x2="1160" y2="320"/><line x1="651.2" y1="262" x2="1240" y2="320"/><line x1="657.6" y1="262" x2="1320" y2="320"/><line x1="664.0" y1="262" x2="1400" y2="320"/><line x1="670.4" y1="262" x2="1480" y2="320"/><line x1="676.8" y1="262" x2="1560" y2="320"/><line x1="683.2" y1="262" x2="1640" y2="320"/><line x1="689.6" y1="262" x2="1720" y2="320"/><line x1="696.0" y1="262" x2="1800" y2="320"/>
+      <g><line x1="0" y1="262" x2="1200" y2="262"/><line x1="0" y1="276" x2="1200" y2="276"/><line x1="0" y1="290" x2="1200" y2="290"/><line x1="0" y1="304" x2="1200" y2="304"/><line x1="0" y1="318" x2="1200" y2="318"/><line x1="0" y1="332" x2="1200" y2="332"/><animateTransform attributeName="transform" type="translate" values="0 0;0 14" dur="0.9s" repeatCount="indefinite"/></g>
+    </g>
+
+    <!-- scrolling code -->
+    <g mask="url(#codeMask)" opacity="0.22" font-size="13">
+      <g transform="translate(700 0)">
+        <g>
+          <text x="0" y="20" fill="#00f0ff">@RestController</text><text x="0" y="40" fill="#7fa8c9">@RequestMapping(&quot;/api/v1&quot;)</text><text x="0" y="60" fill="#7fa8c9">public class ProfileController {</text><text x="0" y="80" fill="#ff2bd6">  private final UserService svc;</text><text x="0" y="100" fill="#7fa8c9">  @GetMapping(&quot;/me&quot;)</text><text x="0" y="120" fill="#00f0ff">  public ResponseEntity&lt;User&gt; me() {</text><text x="0" y="140" fill="#7fa8c9">    return ResponseEntity.ok(svc.me());</text><text x="0" y="160" fill="#7fa8c9">  }</text><text x="0" y="180" fill="#7fa8c9">}</text><text x="0" y="200" fill="#7fa8c9">FROM eclipse-temurin:21-jre</text><text x="0" y="220" fill="#00f0ff">COPY target/app.jar /app.jar</text><text x="0" y="240" fill="#7fa8c9">ENTRYPOINT [&quot;java&quot;,&quot;-jar&quot;,&quot;/app.jar&quot;]</text><text x="0" y="260" fill="#7fa8c9">@EnableWebSecurity</text><text x="0" y="280" fill="#7fa8c9">http.csrf(c -&gt; c.csrfTokenRepository())</text><text x="0" y="300" fill="#7fa8c9">    .oauth2ResourceServer(jwt());</text><text x="0" y="320" fill="#00f0ff">$ docker compose up -d</text><text x="0" y="340" fill="#7fa8c9">$ mvn clean verify -Pprod</text><text x="0" y="360" fill="#ff2bd6">@Transactional(readOnly = true)</text><text x="0" y="380" fill="#7fa8c9">Optional&lt;User&gt; findByEmail(String e);</text><text x="0" y="400" fill="#7fa8c9">[OK] build passed  ✔ 0 vulns</text><text x="0" y="420" fill="#00f0ff">@RestController</text><text x="0" y="440" fill="#7fa8c9">@RequestMapping(&quot;/api/v1&quot;)</text><text x="0" y="460" fill="#7fa8c9">public class ProfileController {</text><text x="0" y="480" fill="#ff2bd6">  private final UserService svc;</text><text x="0" y="500" fill="#7fa8c9">  @GetMapping(&quot;/me&quot;)</text><text x="0" y="520" fill="#00f0ff">  public ResponseEntity&lt;User&gt; me() {</text><text x="0" y="540" fill="#7fa8c9">    return ResponseEntity.ok(svc.me());</text><text x="0" y="560" fill="#7fa8c9">  }</text><text x="0" y="580" fill="#7fa8c9">}</text><text x="0" y="600" fill="#7fa8c9">FROM eclipse-temurin:21-jre</text><text x="0" y="620" fill="#00f0ff">COPY target/app.jar /app.jar</text><text x="0" y="640" fill="#7fa8c9">ENTRYPOINT [&quot;java&quot;,&quot;-jar&quot;,&quot;/app.jar&quot;]</text><text x="0" y="660" fill="#7fa8c9">@EnableWebSecurity</text><text x="0" y="680" fill="#7fa8c9">http.csrf(c -&gt; c.csrfTokenRepository())</text><text x="0" y="700" fill="#7fa8c9">    .oauth2ResourceServer(jwt());</text><text x="0" y="720" fill="#00f0ff">$ docker compose up -d</text><text x="0" y="740" fill="#7fa8c9">$ mvn clean verify -Pprod</text><text x="0" y="760" fill="#ff2bd6">@Transactional(readOnly = true)</text><text x="0" y="780" fill="#7fa8c9">Optional&lt;User&gt; findByEmail(String e);</text><text x="0" y="800" fill="#7fa8c9">[OK] build passed  ✔ 0 vulns</text>
+          <animateTransform attributeName="transform" type="translate" values="0 0;0 -400" dur="22s" repeatCount="indefinite"/>
+        </g>
+      </g>
+    </g>
+
+    <!-- HUD header -->
+    <g font-size="12" letter-spacing="2">
+      <text x="60" y="52" fill="#00f0ff" opacity="0.8">// SYS.INIT &gt; PROFILE_LOADED</text>
+      <circle cx="1068" cy="48" r="4" fill="#39ff9f" filter="url(#glow)">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="1080" y="52" fill="#39ff9f">ONLINE</text>
+    </g>
+
+    <!-- glitch title -->
+    <g font-size="70" font-weight="800" letter-spacing="4">
+      <text x="60" y="140" fill="#ff2bd6" opacity="0.75" textLength="470" lengthAdjust="spacingAndGlyphs">JOHN3315X
+        <animate attributeName="x" values="60;60;64;55;60;60" keyTimes="0;0.86;0.88;0.9;0.92;1" dur="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="60" y="140" fill="#00f0ff" opacity="0.75" textLength="470" lengthAdjust="spacingAndGlyphs">JOHN3315X
+        <animate attributeName="x" values="60;60;55;65;60;60" keyTimes="0;0.86;0.88;0.9;0.92;1" dur="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="60" y="140" fill="#e8faff" filter="url(#glowStrong)" textLength="470" lengthAdjust="spacingAndGlyphs">JOHN3315X
+        <animate attributeName="opacity" values="1;1;0.4;1;0.7;1;1" keyTimes="0;0.85;0.87;0.89;0.91;0.93;1" dur="4s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- animated underline -->
+    <rect x="60" y="160" width="470" height="3" rx="1.5" fill="url(#bar)" filter="url(#glow)"/>
+    <rect x="60" y="160" width="40" height="3" fill="#e8faff" opacity="0.9">
+      <animate attributeName="x" values="60;490;60" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- typing line -->
+    <text x="62" y="222" font-size="24" font-weight="700" fill="#ff2bd6">&gt;_</text>
+    <text x="98" y="222" clip-path="url(#tc0)" font-size="24" textLength="316.8" lengthAdjust="spacingAndGlyphs" fill="#e8faff">Java Backend Developer</text><text x="98" y="222" clip-path="url(#tc1)" font-size="24" textLength="259.2" lengthAdjust="spacingAndGlyphs" fill="#e8faff">Cloud Practitioner</text><text x="98" y="222" clip-path="url(#tc2)" font-size="24" textLength="288.0" lengthAdjust="spacingAndGlyphs" fill="#e8faff">Application Security</text>
+    <rect x="98" y="200" width="12" height="27" fill="#00f0ff" filter="url(#glow)">
+      <animate attributeName="x" dur="15.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0247;0.0293;0.0340;0.0387;0.0433;0.0480;0.0527;0.0573;0.0620;0.0667;0.0713;0.0760;0.0807;0.0853;0.0900;0.0947;0.0993;0.1040;0.1087;0.1133;0.1180;0.1227;0.2713;0.2733;0.2753;0.2773;0.2793;0.2813;0.2833;0.2853;0.2873;0.2893;0.2913;0.2933;0.2953;0.2973;0.2993;0.3013;0.3033;0.3053;0.3073;0.3093;0.3113;0.3133;0.3580;0.3627;0.3673;0.3720;0.3767;0.3813;0.3860;0.3907;0.3953;0.4000;0.4047;0.4093;0.4140;0.4187;0.4233;0.4280;0.4327;0.4373;0.6127;0.6147;0.6167;0.6187;0.6207;0.6227;0.6247;0.6267;0.6287;0.6307;0.6327;0.6347;0.6367;0.6387;0.6407;0.6427;0.6447;0.6467;0.6913;0.6960;0.7007;0.7053;0.7100;0.7147;0.7193;0.7240;0.7287;0.7333;0.7380;0.7427;0.7473;0.7520;0.7567;0.7613;0.7660;0.7707;0.7753;0.7800;0.9420;0.9440;0.9460;0.9480;0.9500;0.9520;0.9540;0.9560;0.9580;0.9600;0.9620;0.9640;0.9660;0.9680;0.9700;0.9720;0.9740;0.9760;0.9780;0.9800" values="98;114.4;128.8;143.2;157.6;172.0;186.4;200.8;215.2;229.6;244.0;258.4;272.8;287.2;301.6;316.0;330.4;344.8;359.2;373.6;388.0;402.4;416.8;402.4;388.0;373.6;359.2;344.8;330.4;316.0;301.6;287.2;272.8;258.4;244.0;229.6;215.2;200.8;186.4;172.0;157.6;143.2;128.8;114.4;100.0;114.4;128.8;143.2;157.6;172.0;186.4;200.8;215.2;229.6;244.0;258.4;272.8;287.2;301.6;316.0;330.4;344.8;359.2;344.8;330.4;316.0;301.6;287.2;272.8;258.4;244.0;229.6;215.2;200.8;186.4;172.0;157.6;143.2;128.8;114.4;100.0;114.4;128.8;143.2;157.6;172.0;186.4;200.8;215.2;229.6;244.0;258.4;272.8;287.2;301.6;316.0;330.4;344.8;359.2;373.6;388.0;373.6;359.2;344.8;330.4;316.0;301.6;287.2;272.8;258.4;244.0;229.6;215.2;200.8;186.4;172.0;157.6;143.2;128.8;114.4;100.0"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- tech tags -->
+    <g font-size="13" letter-spacing="1.5" fill="#9fc4dd">
+      <text x="62" y="268"><tspan fill="#00f0ff">[</tspan> JAVA <tspan fill="#00f0ff">]</tspan>  <tspan fill="#ff2bd6">[</tspan> SPRING BOOT <tspan fill="#ff2bd6">]</tspan>  <tspan fill="#00f0ff">[</tspan> DOCKER <tspan fill="#00f0ff">]</tspan>  <tspan fill="#39ff9f">[</tspan> APPSEC <tspan fill="#39ff9f">]</tspan></text>
+    </g>
+
+    <!-- floating tech icons -->
+    
+  <g transform="translate(785 118)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3.2s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="#0a1020" fill-opacity="0.85" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow)"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="none" stroke="#00f0ff" stroke-width="2" stroke-dasharray="30 250" opacity="0.9">
+        <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="2.9s" repeatCount="indefinite"/>
+      </polygon>
+      
+      <path d="M-15 -2 H13 V10 C13 18 7 22 -1 22 C-9 22 -15 18 -15 10 Z" fill="none" stroke="#f89820" stroke-width="3"/>
+      <path d="M13 2 C22 2 22 14 12 14" fill="none" stroke="#f89820" stroke-width="3"/>
+      <path d="M-20 25 H18" stroke="#5382a1" stroke-width="3" stroke-linecap="round"/>
+      <g fill="none" stroke="#5382a1" stroke-width="2.5" stroke-linecap="round">
+        <path d="M-7 -7 C-11 -12 -3 -15 -7 -21"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></path>
+        <path d="M1 -7 C-3 -12 5 -15 1 -21"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></path>
+      </g>
+      <text y="66" text-anchor="middle" font-size="11" letter-spacing="2" fill="#00f0ff" opacity="0.9">JAVA</text>
+    </g>
+  </g>
+  <g transform="translate(895 196)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3.8s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="#0a1020" fill-opacity="0.85" stroke="#ff2bd6" stroke-width="1.5" filter="url(#glow)"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="none" stroke="#ff2bd6" stroke-width="2" stroke-dasharray="30 250" opacity="0.9">
+        <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="3.4s" repeatCount="indefinite"/>
+      </polygon>
+      
+      <circle r="22" fill="none" stroke="#6db33f" stroke-width="2.5"/>
+      <path d="M-11 12 C-16 -4 -2 -15 15 -15 C15 2 4 14 -11 12 Z" fill="#6db33f"/>
+      <path d="M-11 12 C-4 4 3 -3 10 -9" stroke="#0a1020" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <text y="66" text-anchor="middle" font-size="11" letter-spacing="2" fill="#ff2bd6" opacity="0.9">SPRING</text>
+    </g>
+  </g>
+  <g transform="translate(1005 118)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="#0a1020" fill-opacity="0.85" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow)"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="none" stroke="#00f0ff" stroke-width="2" stroke-dasharray="30 250" opacity="0.9">
+        <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="3.1s" repeatCount="indefinite"/>
+      </polygon>
+      
+      <g fill="#2496ed">
+        <rect x="-16" y="-6" width="7" height="6" rx="1"/><rect x="-8" y="-6" width="7" height="6" rx="1"/>
+        <rect x="0" y="-6" width="7" height="6" rx="1"/><rect x="8" y="-6" width="7" height="6" rx="1"/>
+        <rect x="-8" y="-13" width="7" height="6" rx="1"/><rect x="0" y="-13" width="7" height="6" rx="1"/>
+        <rect x="0" y="-20" width="7" height="6" rx="1"/>
+        <path d="M-24 2 H18 C20 -4 25 -5 28 -2 C26 2 23 3 20 3 C16 15 5 20 -7 20 C-18 20 -24 12 -24 2 Z"/>
+      </g>
+      <circle cx="-12" cy="9" r="1.6" fill="#0a1020"/>
+      <text y="66" text-anchor="middle" font-size="11" letter-spacing="2" fill="#00f0ff" opacity="0.9">DOCKER</text>
+    </g>
+  </g>
+  <g transform="translate(1110 196)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.1s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="#0a1020" fill-opacity="0.85" stroke="#39ff9f" stroke-width="1.5" filter="url(#glow)"/>
+      <polygon points="0.0,-46.0 40.0,-23.0 40.0,23.0 0.0,46.0 -40.0,23.0 -40.0,-23.0" fill="none" stroke="#39ff9f" stroke-width="2" stroke-dasharray="30 250" opacity="0.9">
+        <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="3.7s" repeatCount="indefinite"/>
+      </polygon>
+      
+      <path d="M0 -24 L19 -16 V-1 C19 11 11 19 0 24 C-11 19 -19 11 -19 -1 V-16 Z" fill="none" stroke="#39ff9f" stroke-width="2.5"/>
+      <rect x="-8" y="-2" width="16" height="13" rx="2" fill="#39ff9f"/>
+      <path d="M-5 -2 V-7 C-5 -13 5 -13 5 -7 V-2" fill="none" stroke="#39ff9f" stroke-width="2.5"/>
+      <circle cy="4" r="2" fill="#0a1020"/>
+      <text y="66" text-anchor="middle" font-size="11" letter-spacing="2" fill="#39ff9f" opacity="0.9">APPSEC</text>
+    </g>
+  </g>
+
+    <!-- scanline -->
+    <rect x="0" y="-10" width="1200" height="2" fill="#00f0ff" opacity="0.18">
+      <animate attributeName="y" values="-10;330" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- HUD frame -->
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="none" stroke="#00f0ff" stroke-opacity="0.2" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="none" stroke="url(#bar)" stroke-width="2.5" stroke-dasharray="260 2700" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-2960" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <g stroke="#00f0ff" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M18 44 V18 H44"/><path d="M1156 18 H1182 V44"/>
+    <path d="M18 276 V302 H44"/><path d="M1156 302 H1182 V276"/>
+  </g>
+</svg>
