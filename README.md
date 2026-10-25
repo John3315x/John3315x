@@ -133,6 +133,9 @@ A Java simulation exploring autonomous agents and emergent behavior in a two-dim
 
 ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Spring Security](https://img.shields.io/badge/Spring_Security-111827?style=flat-square&logo=spring&logoColor=6DB33F)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-111827?style=flat-square&logo=spring&logoColor=6DB33F)
+![Open Feign](https://img.shields.io/badge/OpenFeign-111827?style=flat-square&logo=openfeign&logoColor=6DB33F)
 ![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=000000)
