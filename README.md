@@ -79,7 +79,7 @@ Planned areas include:
 
 **Stack:** Java · Spring Boot · Microservices · PostgreSQL · Docker
 
-*In development — repository coming soon.*
+[↗ Explore repository](https://github.com/John3315x/Distributed-E-Commerce)
 
 </td>
 </tr>
