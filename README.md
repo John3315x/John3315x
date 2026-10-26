@@ -62,7 +62,6 @@ A secure authentication platform built around Zero Trust principles and a micros
 **Stack:** Java · Spring Boot · Spring Security · JWT · Redis · PostgreSQL
 
 [↗ Explore repository](https://github.com/John3315x/zanshin-zero-trust-system)
-
 </td>
 <td width="50%" valign="top">
 
